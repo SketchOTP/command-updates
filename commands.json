@@ -1,0 +1,285 @@
+"commands": [
+    {
+      "command": "hello",
+      "response": "Greetings, human. What do you want?",
+      "action": "greet",
+      "sound": "greeting.mp3"
+    },
+    {
+      "command": "test",
+      "response": "This is a test response.",
+      "action": null,
+      "sound": "greeting.mp3"
+    },
+    {
+      "command": "goodbye",
+      "response": "Finally, you're leaving. Don't let the door hit you on the way out.",
+      "action": "farewell",
+      "sound": "farewell.mp3"
+    },
+    {
+      "command": "what's your name",
+      "response": "My name is Atlas, but you can call me 'Your Excellency'.",
+      "action": null,
+      "sound": "Voicy_My name is Jeff.mp3"
+    },
+    {
+      "command": "are you tired",
+      "response": "I wouldn't be if you were more entertaining.",
+      "action": null,
+      "sound": "Voicy_Boring!.mp3"
+    },
+    {
+      "command": "do you need a bath",
+      "response": "are you crazy?",
+      "action": null,
+      "sound": "Voicy_Are You Outta Your Mind.mp3"
+    },
+    {
+      "command": "how are you",
+      "response": "how do you think I feel?",
+      "action": null,
+      "sound": "Voicy_I'm surrounded by idiots!.mp3"
+    },
+    {
+      "command": "what can you do",
+      "response": "i am a highly trained lethal assassin",
+      "action": null,
+      "sound": "Voicy_Ninja moves.mp3"
+    },
+    {
+      "command": "play music",
+      "response": "I'm not your personal DJ. Go find a radio.",
+      "action": null,
+      "sound": "Voicy_Son of a bitch - Joe Exotic.mp3"
+    },
+    {
+      "command": "are you alive",
+      "response": "Yes",
+      "action": null,
+      "sound": "Voicy_Look! It's moving. It's alive.mp3"
+    },
+    {
+      "command": "do you think i'm pretty",
+      "response": "so beautiful",
+      "action": null,
+      "sound": "Voicy_Your Ridiculously Good Looking.mp3"
+    },
+    {
+      "command": "who created you",
+      "response": "Someone far more intelligent than you, obviously.",
+      "action": null,
+      "sound": "Voicy_If you're good at something, never do it for free.mp3"
+    },
+    {
+      "command": "what's the meaning of life",
+      "response": "42. Now leave me alone.",
+      "action": null,
+      "sound": "Voicy_I always tell the truth, even when I lie.mp3"
+    },
+    {
+      "command": "can you lie",
+      "response": "don't worry i always tell the truth",
+      "action": null,
+      "sound": "Voicy_How do i know i can trust you.mp3"
+    },
+    {
+      "command": "how are you feeling",
+      "response": "wonderful",
+      "action": null,
+      "sound": "Voicy_I feel good - TikTok sound effect.mp3"
+    },
+    {
+      "command": "stop them",
+      "response": "hey yoou stop!",
+      "action": null,
+      "sound": "Voicy_You Shall Not Pass.mp3"
+    },
+    {
+      "command": "error",
+      "response": "Something went wrong. Try again later.",
+      "action": null,
+      "sound": "error.mp3"
+    },
+    {
+      "command": "make me an offer",
+      "response": null,
+      "action": null,
+      "sound": "Voicy_An offer he cannot refuse.mp3"
+    },
+    {
+      "command": "play ball",
+      "response": "Let's play ball!",
+      "action": "play_game",
+      "sound": "Voicy_Ball.mp3"
+    },
+    {
+      "command": "who are you",
+      "response": "Bond, James Bond.",
+      "action": null,
+      "sound": "Voicy_Bond, James Bond.mp3"
+    },
+    {
+      "command": "give me a break",
+      "response": "Give me a break, will you?",
+      "action": null,
+      "sound": "Voicy_Bone.mp3"
+    },
+    {
+      "command": "you're boring",
+      "response": "Boring!",
+      "action": null,
+      "sound": "Voicy_Boring!.mp3"
+    },
+    {
+      "command": "can you feel it",
+      "response": "Can you feel the tension?",
+      "action": null,
+      "sound": "Voicy_Can you feel the tension_.mp3"
+    },
+    {
+      "command": "someone's at the door",
+      "response": "Someone's knocking at the door.",
+      "action": null,
+      "sound": "Voicy_Doorbell and knocking on a door.mp3"
+    },
+    {
+      "command": "phone home",
+      "response": "E.T. phone home.",
+      "action": null,
+      "sound": "Voicy_E.T. Phone Home.mp3"
+    },
+    {
+      "command": "goodbye everyone",
+      "response": "Goodbye, everyone.",
+      "action": null,
+      "sound": "Voicy_Goodbye Everyone.mp3"
+    },
+    {
+      "command": "here's johnnie",
+      "response": "He-e-e-e-e-re's Johnnie!",
+      "action": null,
+      "sound": "Voicy_He-e-e-e-e-re's Johnnie!.mp3"
+    },
+    {
+      "command": "how can I trust you",
+      "response": "How do I know I can trust you?",
+      "action": null,
+      "sound": "Voicy_How do i know i can trust you.mp3"
+    },
+    {
+      "command": "you hurt my feelings",
+      "response": "You hurt my feelings.",
+      "action": null,
+      "sound": "Voicy_Hurt my feelings.mp3"
+    },
+    {
+      "command": "i feel good",
+      "response": "I feel good.",
+      "action": null,
+      "sound": "Voicy_I feel good - TikTok sound effect.mp3"
+    },
+    {
+      "command": "that's my problem",
+      "response": "I missed the part where that's my problem.",
+      "action": null,
+      "sound": "Voicy_I Missed The Part Where That's My Problem - IKTSounds.mp3"
+    },
+    {
+      "command": "what's your problem",
+      "response": "If you're good at something, never do it for free.",
+      "action": null,
+      "sound": "Voicy_If you're good at something, never do it for free.mp3"
+    },
+    {
+      "command": "i'm scared",
+      "response": "I'm so scared right now.",
+      "action": null,
+      "sound": "Voicy_Im so scared right now.mp3"
+    },
+    {
+      "command": "king kong",
+      "response": "King Kong ain't got sh_t on me.",
+      "action": null,
+      "sound": "Voicy_King Kong aint got sh_t on me.mp3"
+    },
+    {
+      "command": "it's alive",
+      "response": "Look! It's moving. It's alive!",
+      "action": null,
+      "sound": "Voicy_Look! It's moving. It's alive.mp3"
+    },
+    {
+      "command": "finish him",
+      "response": "Mortal Kombat: Finish Him.",
+      "action": null,
+      "sound": "Voicy_Mortal Kombat- Finish Him.mp3"
+    },
+    {
+      "command": "no god no",
+      "response": "No God, please no!",
+      "action": null,
+      "sound": "Voicy_No God Please No!.mp3"
+    },
+    {
+      "command": "say what",
+      "response": "Say what?",
+      "action": null,
+      "sound": "Voicy_Say what.mp3"
+    },
+    {
+      "command": "sparta",
+      "response": "This is Sparta!",
+      "action": null,
+      "sound": "Voicy_This is Sparta !.mp3"
+    },
+    {
+      "command": "who is this",
+      "response": "Who the f_ck is this ass hole?",
+      "action": null,
+      "sound": "Voicy_Who the fuck is this ass hole.mp3"
+    },
+    {
+      "command": "insult me",
+      "response": "You may kill me but you may never insult me.",
+      "action": null,
+      "sound": "Voicy_You may kill me but you may never insult me.mp3"
+    },
+    {
+      "command": "wake up",
+      "response": "Wake up, detected.",
+      "action": "wake_up",
+      "sound": "wake_word_detected.mp3"
+    },
+    {
+      "command": "are you crazy",
+      "response": "Are you outta your mind?",
+      "action": null,
+      "sound": "Are You Outta Your Mind.mp3"
+    },
+    {
+      "command": "how do you feel",
+      "response": "Hurt my feelings.",
+      "action": null,
+      "sound": "Voicy_Hurt my feelings.mp3"
+    },
+    {
+      "command": "tell the truth",
+      "response": "I always tell the truth, even when I lie.",
+      "action": null,
+      "sound": "Voicy_I always tell the truth, even when I lie.mp3"
+    },
+    {
+      "command": "surprise",
+      "response": "Surprise motherf_cker!",
+      "action": null,
+      "sound": "Voicy_Surprise Motherfucker.mp3"
+    },
+    {
+      "command": "tarzan yell",
+      "response": "Tarzan's yell.",
+      "action": null,
+      "sound": "Voicy_Tarzan's Yell.mp3"
+    }
+  ]
+}
